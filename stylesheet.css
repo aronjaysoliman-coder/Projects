@@ -1,0 +1,26 @@
+#body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #ffffff;
+    }
+
+.header {
+    background-color: #3c4a61;
+    padding: 0 15px ;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+    height: 75px;
+}
+
+.logo {
+    margin: 0px;
+    height: 70px;
+}
+nav a {
+    color: white;
+    text-decoration: none;
+    margin-left: 25px;
+    font-size: 16px;
+}
